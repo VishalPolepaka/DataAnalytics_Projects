@@ -1,4 +1,4 @@
-# PowerBI-Project
+# E-commerce Sales Dashboard PowerBI
 
 Title: Madhav E-commerce Sales Dashboard
 
