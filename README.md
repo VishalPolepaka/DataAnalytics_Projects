@@ -1,6 +1,4 @@
-# E-commerce Sales Dashboard PowerBI
-
-Title: Madhav E-commerce Sales Dashboard
+# E-commerce Sales Dashboard - Microsoft PowerBI
 
 Objective: The owner of the Madhav Store requested to help them create a dashboard to track and analyze their online sales across India.
 
